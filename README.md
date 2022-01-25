@@ -7,8 +7,8 @@ dice_chance.py. It is a well known concept that the probability of a dice throw 
 This obviously implies that we repeat the dice throw quite a number of times and for this reason I created a loop that resembles 100.000 dice throws and
 extracts the values for each number from 1 to 6. The results confirm the initial hypothesis.
 
+promet_natančno.py
+
 kamen_test.py
 
-guessing.py
 
-password.py
