@@ -11,4 +11,8 @@ promet_natančno.py
 
 kamen_test.py
 
+int_zaup.py
 
+lin_reg.py
+
+mean_var_std_dev_classic.py
