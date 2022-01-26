@@ -7,12 +7,11 @@ dice_chance.py. It is a well known concept that the probability of a dice throw 
 This obviously implies that we repeat the dice throw quite a number of times and for this reason I created a loop that resembles 100.000 dice throws and
 extracts the values for each number from 1 to 6. The results confirm the initial hypothesis.
 
-promet_natančno.py
+rock_paper_scissors.py. When playing rock, paper, scissors, there should be a 1 in 3 chance of you winning if you do it over and over many times. I checked
+this concept in Python and came to the conclusion that this statement is true. With 10000 iterations player1 gets approximately 3300 wins.
 
-kamen_test.py
+conf_interval.py. This file calculates the confidence interval for the mean of a small sample.
 
-int_zaup.py
+lin_regres.py. Analog way of doing linear regression.
 
-lin_reg.py
-
-mean_var_std_dev_classic.py
+mean_var_std_dev_classic.py. The classic way to calculate the mean, variance and standard deviation.
