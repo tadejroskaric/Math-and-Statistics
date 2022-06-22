@@ -10,7 +10,7 @@ extracts the values for each number from 1 to 6. The results confirm the initial
 rock_paper_scissors.py. When playing rock, paper, scissors, there should be a 1 in 3 chance of you winning if you do it over and over many times. I checked
 this concept in Python and came to the conclusion that this statement is true. With 10000 iterations player1 gets approximately 3300 wins.
 
-conf_interval.py. This file calculates the confidence interval for the mean of a small sample.
+conf_int.py. This file calculates the confidence interval for the mean of a small sample.
 
 lin_regres.py. Analog way of doing linear regression.
 
